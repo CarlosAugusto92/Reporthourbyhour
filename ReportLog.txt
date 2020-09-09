@@ -1,0 +1,14 @@
+Fecha y hora: 2020-09-08 21:49:00.280595
+Modelo:ELECTRON
+Serial:EE48ABC5899
+Nombre:KARLA
+WD ID:25478
+Turno:NOCHE
+
+Fecha y hora: 2020-09-08 21:49:48.881509
+Modelo:ELECTRON
+Serial:EE48ABC5890
+Nombre:MARIA
+WD ID:21545
+Turno:MAÑANA
+
