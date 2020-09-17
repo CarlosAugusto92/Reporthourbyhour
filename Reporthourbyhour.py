@@ -20,7 +20,7 @@ def Date_and_Time ():
 
 def Report_Generator(modelo, modelo_serial, nombre, nomina, turno, Date_Time):
   
-    file_log  = open('path where the log is saved', 'a')  //This argument does not has the rigth path because you should configure it according with your directory.
+    file_log  = open('path where the log is saved', 'a')  #This argument does not has the rigth path because you should configure it according with your directory.
     file_log.write("Fecha y hora: " + Date_Time + os.linesep)
     file_log.write("Modelo:" + modelo + os.linesep)
     file_log.write("Serial:"+ modelo_serial + os.linesep)
